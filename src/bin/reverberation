@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/opt/reverberation/venv/bin/python /opt/reverberation/reverberation.py
